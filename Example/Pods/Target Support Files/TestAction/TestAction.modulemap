@@ -1,0 +1,6 @@
+framework module TestAction {
+  umbrella header "TestAction-umbrella.h"
+
+  export *
+  module * { export * }
+}

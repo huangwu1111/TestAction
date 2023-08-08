@@ -1,0 +1,22 @@
+{
+  "name": "TestAction",
+  "version": "0.1.0",
+  "summary": "A short description of TestAction.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huangwu1111/TestAction",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangwu1111": "1243930473@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/huangwu1111/TestAction.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "TestAction/Classes/**/*"
+}

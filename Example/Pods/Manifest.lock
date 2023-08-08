@@ -1,0 +1,16 @@
+PODS:
+  - TestAction (0.1.0)
+
+DEPENDENCIES:
+  - TestAction (from `../`)
+
+EXTERNAL SOURCES:
+  TestAction:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestAction: bfaa34b82e7d617f6264ccb33d85f6e0750b8852
+
+PODFILE CHECKSUM: 242ad450084d3e0f45ee7770b8f6e2795863920b
+
+COCOAPODS: 1.12.1
