@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TestAction'
   s.version          = '0.2.0'
-  s.summary          = 'A short description of TestAction.'
+  s.summary          = 'ssssfff'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -32,12 +32,14 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'TestAction/Classes/**/*'
   s.swift_version = '5'
+#  s.dependency 'Alamofire'
+  
   # s.resource_bundles = {
   #   'TestAction' => ['TestAction/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-   s.dependency 'Alamofire'
+   
    
 end
